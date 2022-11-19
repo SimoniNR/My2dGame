@@ -1,0 +1,1035 @@
+fileFormatVersion: 2
+guid: e80bdb7a1a5f97b48bb7ed5cba1b3d49
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3041082426191215537
+    second: BODY_Walk_Leather_0
+  - first:
+      213: -2242626606610525107
+    second: BODY_Walk_Leather_1
+  - first:
+      213: 2700024609924051520
+    second: BODY_Walk_Leather_2
+  - first:
+      213: 992723464951681790
+    second: BODY_Walk_Leather_3
+  - first:
+      213: -4916308753398393842
+    second: BODY_Walk_Leather_4
+  - first:
+      213: 6805486870740453511
+    second: BODY_Walk_Leather_5
+  - first:
+      213: -792686696246461830
+    second: BODY_Walk_Leather_6
+  - first:
+      213: 5240219964499095187
+    second: BODY_Walk_Leather_7
+  - first:
+      213: -31821475483984090
+    second: BODY_Walk_Leather_8
+  - first:
+      213: 885998619211548263
+    second: BODY_Walk_Leather_9
+  - first:
+      213: -6465589207682854607
+    second: BODY_Walk_Leather_10
+  - first:
+      213: 1639035555389726490
+    second: BODY_Walk_Leather_11
+  - first:
+      213: 1832118702005734869
+    second: BODY_Walk_Leather_12
+  - first:
+      213: 5240384926971995445
+    second: BODY_Walk_Leather_13
+  - first:
+      213: 8286573814687622415
+    second: BODY_Walk_Leather_14
+  - first:
+      213: -4751369373267538944
+    second: BODY_Walk_Leather_15
+  - first:
+      213: -7444146734353181968
+    second: BODY_Walk_Leather_16
+  - first:
+      213: 4187583537212475586
+    second: BODY_Walk_Leather_17
+  - first:
+      213: -4589417141698606409
+    second: BODY_Walk_Leather_18
+  - first:
+      213: -5326995492872607372
+    second: BODY_Walk_Leather_19
+  - first:
+      213: 3065767824782860478
+    second: BODY_Walk_Leather_20
+  - first:
+      213: 8877785735249746591
+    second: BODY_Walk_Leather_21
+  - first:
+      213: -1027746929695677607
+    second: BODY_Walk_Leather_22
+  - first:
+      213: -1580183866735812198
+    second: BODY_Walk_Leather_23
+  - first:
+      213: 8022851388255429437
+    second: BODY_Walk_Leather_24
+  - first:
+      213: -4998152058939671212
+    second: BODY_Walk_Leather_25
+  - first:
+      213: -4698430575884208334
+    second: BODY_Walk_Leather_26
+  - first:
+      213: 4549893500334487479
+    second: BODY_Walk_Leather_27
+  - first:
+      213: 1160184469472588606
+    second: BODY_Walk_Leather_28
+  - first:
+      213: -7441878210829484601
+    second: BODY_Walk_Leather_29
+  - first:
+      213: -870831352423728559
+    second: BODY_Walk_Leather_30
+  - first:
+      213: 7875691712473224367
+    second: BODY_Walk_Leather_31
+  - first:
+      213: 8889059270422601037
+    second: BODY_Walk_Leather_32
+  - first:
+      213: -5700554160540442761
+    second: BODY_Walk_Leather_33
+  - first:
+      213: 3946548958893709932
+    second: BODY_Walk_Leather_34
+  - first:
+      213: -4432865566908687246
+    second: BODY_Walk_Leather_35
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BODY_Walk_Leather_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 195
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb7fc1ba58143a20800000000000000
+      internalID: 3041082426191215537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_Walk_Leather_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 195
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44d325bbf690e0e0800000000000000
+      internalID: -2242626606610525107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_Walk_Leather_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 194
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042f55fc31a687520800000000000000
+      internalID: 2700024609924051520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_Walk_Leather_3
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 193
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2d3a05bbcd6cd00800000000000000
+      internalID: 992723464951681790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_Walk_Leather_4
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 194
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e049b8b8c33c5cbb0800000000000000
+      internalID: -4916308753398393842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_Walk_Leather_5
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 195
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788c11e7042f17e50800000000000000
+      internalID: 6805486870740453511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_Walk_Leather_6
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 194
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a3d0c46afcff4f0800000000000000
+      internalID: -792686696246461830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_Walk_Leather_7
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 193
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ee0e83b4009b840800000000000000
+      internalID: 5240219964499095187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_Walk_Leather_8
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 194
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f5c816982fe8ff0800000000000000
+      internalID: -31821475483984090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_Walk_Leather_9
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 130
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7664799cc03bb4c00800000000000000
+      internalID: 885998619211548263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_Walk_Leather_10
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 130
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131d67c2fdc9546a0800000000000000
+      internalID: -6465589207682854607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_Walk_Leather_11
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 131
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f5d3557260fb610800000000000000
+      internalID: 1639035555389726490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_Walk_Leather_12
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 131
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ddc663a04efc6910800000000000000
+      internalID: 1832118702005734869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_Walk_Leather_13
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 130
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5352a7a835699b840800000000000000
+      internalID: 5240384926971995445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_Walk_Leather_14
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 130
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f056285faf2dff270800000000000000
+      internalID: 8286573814687622415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_Walk_Leather_15
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 130
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00cc7b59abebf0eb0800000000000000
+      internalID: -4751369373267538944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_Walk_Leather_16
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 130
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f29ef26cf311b890800000000000000
+      internalID: -7444146734353181968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_Walk_Leather_17
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 130
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8c2d25a094d1a30800000000000000
+      internalID: 4187583537212475586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_Walk_Leather_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 66
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba47f6ec6d1f40c0800000000000000
+      internalID: -4589417141698606409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_Walk_Leather_19
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 66
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479a837a2d5b216b0800000000000000
+      internalID: -5326995492872607372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_Walk_Leather_20
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 65
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb02100f79bcb8a20800000000000000
+      internalID: 3065767824782860478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_Walk_Leather_21
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 65
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a5795f61b343b70800000000000000
+      internalID: 8877785735249746591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_Walk_Leather_22
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 65
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953ad78dc95bcb1f0800000000000000
+      internalID: -1027746929695677607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_Walk_Leather_23
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 66
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91a867352f021ae0800000000000000
+      internalID: -1580183866735812198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_Walk_Leather_24
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 65
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33e6baa4d4e65f60800000000000000
+      internalID: 8022851388255429437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_Walk_Leather_25
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 65
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d73890f2ff2aab0800000000000000
+      internalID: -4998152058939671212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_Walk_Leather_26
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 65
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237769ad842dbceb0800000000000000
+      internalID: -4698430575884208334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_Walk_Leather_27
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7bb4d3808742f30800000000000000
+      internalID: 4549893500334487479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_Walk_Leather_28
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 2
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33b6d8c0adc91010800000000000000
+      internalID: 1160184469472588606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_Walk_Leather_29
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 3
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cdf9cd223329b890800000000000000
+      internalID: -7441878210829484601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_Walk_Leather_30
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 3
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ab283bf7f2ae3f0800000000000000
+      internalID: -870831352423728559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_Walk_Leather_31
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 2
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa45472a2e31c4d60800000000000000
+      internalID: 7875691712473224367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_Walk_Leather_32
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 2
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d9ee86f484c5b70800000000000000
+      internalID: 8889059270422601037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_Walk_Leather_33
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 2
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f9c1e913093e0b0800000000000000
+      internalID: -5700554160540442761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_Walk_Leather_34
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 2
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a1c8f4e55f4c630800000000000000
+      internalID: 3946548958893709932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_Walk_Leather_35
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 2
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cd853d04c4b72c0800000000000000
+      internalID: -4432865566908687246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BODY_Walk_Leather_9: 885998619211548263
+      BODY_Walk_Leather_16: -7444146734353181968
+      BODY_Walk_Leather_11: 1639035555389726490
+      BODY_Walk_Leather_0: 3041082426191215537
+      BODY_Walk_Leather_33: -5700554160540442761
+      BODY_Walk_Leather_10: -6465589207682854607
+      BODY_Walk_Leather_21: 8877785735249746591
+      BODY_Walk_Leather_1: -2242626606610525107
+      BODY_Walk_Leather_24: 8022851388255429437
+      BODY_Walk_Leather_26: -4698430575884208334
+      BODY_Walk_Leather_17: 4187583537212475586
+      BODY_Walk_Leather_35: -4432865566908687246
+      BODY_Walk_Leather_27: 4549893500334487479
+      BODY_Walk_Leather_12: 1832118702005734869
+      BODY_Walk_Leather_7: 5240219964499095187
+      BODY_Walk_Leather_22: -1027746929695677607
+      BODY_Walk_Leather_6: -792686696246461830
+      BODY_Walk_Leather_5: 6805486870740453511
+      BODY_Walk_Leather_8: -31821475483984090
+      BODY_Walk_Leather_14: 8286573814687622415
+      BODY_Walk_Leather_25: -4998152058939671212
+      BODY_Walk_Leather_20: 3065767824782860478
+      BODY_Walk_Leather_23: -1580183866735812198
+      BODY_Walk_Leather_29: -7441878210829484601
+      BODY_Walk_Leather_4: -4916308753398393842
+      BODY_Walk_Leather_31: 7875691712473224367
+      BODY_Walk_Leather_34: 3946548958893709932
+      BODY_Walk_Leather_2: 2700024609924051520
+      BODY_Walk_Leather_28: 1160184469472588606
+      BODY_Walk_Leather_32: 8889059270422601037
+      BODY_Walk_Leather_30: -870831352423728559
+      BODY_Walk_Leather_18: -4589417141698606409
+      BODY_Walk_Leather_3: 992723464951681790
+      BODY_Walk_Leather_13: 5240384926971995445
+      BODY_Walk_Leather_19: -5326995492872607372
+      BODY_Walk_Leather_15: -4751369373267538944
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

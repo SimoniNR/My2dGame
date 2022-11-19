@@ -1,0 +1,850 @@
+fileFormatVersion: 2
+guid: f82496fd9a78e0c43bc5853bf96d79e0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jinn_0
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 921
+        width: 38
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e65976e4a56e944eb0e105e6349c2a4
+      internalID: 1806548921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jinn_1
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 922
+        width: 84
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1ca3cd3db4d544b96d2893db924ffe
+      internalID: 643236553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jinn_3
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 924
+        width: 84
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb0be0aa6701614caf7250c61d3744b
+      internalID: 1255269002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jinn_5
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 921
+        width: 52
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aed89a5718ba104b94144fbe1a8024b
+      internalID: 462751630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jinn_9
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 802
+        width: 46
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984ea5d0e332c9e468fd210908f2ded2
+      internalID: -1813017547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jinn_10
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 802
+        width: 46
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755941fff66ea364386dd57fc75779d3
+      internalID: 1849515319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jinn_11
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 676
+        width: 49
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac6feb86a6c9be498c28df8d23af5dd
+      internalID: 356231133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jinn_20
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 680
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b3c6426b62d1d45a7fef317df76fa8
+      internalID: 927097778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jinn_32
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 673
+        width: 59
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbbae52f0614aa449b715ac4148cdc0
+      internalID: 425696643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jinn_46
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 673
+        width: 56
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1788c0e31eabe419e95b96e09804b8
+      internalID: -566237900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jinn_47
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 560
+        width: 39
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1edfc4263d8fcb744a9636ee3296df82
+      internalID: 2138472633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jinn_48
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 560
+        width: 41
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e76b6da7bcbfe048b539809aa7ee113
+      internalID: 841506558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jinn_49
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 561
+        width: 45
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6547296eebd2ad643a30fa01031207f5
+      internalID: 1519037271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jinn_51
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 445
+        width: 42
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09e5df7f0cbeb144b3b122612585126
+      internalID: -639614715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jinn_53
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 444
+        width: 48
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08947a7843f55b47ae6a8eec440f370
+      internalID: -658776640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jinn_54
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 445
+        width: 52
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27dbf5e417670644946b08fe4d6ea5f
+      internalID: 823632492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jinn_56
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 449
+        width: 41
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8488589a1927b4f9a8c6101f5025f2
+      internalID: 1530858494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jinn_58
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 320
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7babd5922642f54ba7a719c4c68f497
+      internalID: 1011073786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jinn_61
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 314
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73fa29d9fb6da2489e11df67a446387
+      internalID: 1949414706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jinn_62
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 308
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1cca7b876d68743a67e89c4a087159
+      internalID: -1231924477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jinn_63
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 306
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3195f706d0e813f4ab0d798612a93779
+      internalID: -1983545911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jinn_64
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 303
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5379646b7aa9cc4ba3ba2036edf2591
+      internalID: 1334721627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jinn_65
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 297
+        width: 95
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af93500b8c071b41b5126d0ba7e92a8
+      internalID: 1055724024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jinn_66
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 282
+        width: 128
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb55f4b03e39ef4a8012e1bf635f254
+      internalID: -2003460818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jinn_67
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 276
+        width: 156
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c31d2600b3a75843a37ab2e5b64f197
+      internalID: -1225124642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jinn_68
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 324
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4402ba35aa3cf8429746c5062d18b9f
+      internalID: 1802704976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jinn_70
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 322
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b13bebef6013e4a8e365536fc31338
+      internalID: -505392735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jinn_71
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 325
+        width: 54
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455b518b5ff9c6a4e9d643360c89b653
+      internalID: 2074918855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jinn_92
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 52
+        width: 161
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a999c466ec5ce3c48946acb0e6fc5378
+      internalID: 1826335754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jinn_96
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 12
+        width: 169
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd0c097ddf27c34cbc4f31edc19063e
+      internalID: 1566654314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Jinn_65: 1055724024
+      Jinn_70: -505392735
+      Jinn_24: -906814631
+      Jinn_49: 1519037271
+      Jinn_78: -1395002829
+      Jinn_18: 2026382473
+      Jinn_81: 1886030364
+      Jinn_80: -1937387327
+      Jinn_56: 1530858494
+      Jinn_54: 823632492
+      Jinn_40: 1830625907
+      Jinn_67: -1225124642
+      Jinn_69: 463312774
+      Jinn_86: 873942158
+      Jinn_46: -566237900
+      Jinn_41: 625461542
+      Jinn_28: -776731877
+      Jinn_36: -1351031123
+      Jinn_63: -1983545911
+      Jinn_3: 1255269002
+      Jinn_10: 1849515319
+      Jinn_89: 321876085
+      Jinn_33: 654887565
+      Jinn_45: -1095815937
+      Jinn_90: -893099874
+      Jinn_25: -1975514153
+      Jinn_23: 1815723826
+      Jinn_29: 177423946
+      Jinn_74: 1556678849
+      Jinn_14: -197679906
+      Jinn_84: -24826869
+      Jinn_35: -1848303772
+      Jinn_38: 1577800655
+      Jinn_27: 326236939
+      Jinn_15: -1296548920
+      Jinn_61: 1949414706
+      Jinn_31: 687082520
+      Jinn_68: 1802704976
+      Jinn_62: -1231924477
+      Jinn_87: -2080295233
+      Jinn_58: 1011073786
+      Jinn_47: 2138472633
+      Jinn_22: 1964288565
+      Jinn_88: 574908791
+      Jinn_77: -1313723231
+      Jinn_11: 356231133
+      Jinn_34: 556203547
+      Jinn_64: 1334721627
+      Jinn_76: 891442854
+      Jinn_59: -928820642
+      Jinn_0: 1806548921
+      Jinn_60: -340289317
+      Jinn_12: 1843589311
+      Jinn_92: 1826335754
+      Jinn_85: -1571968190
+      Jinn_8: 1848007600
+      Jinn_1: 643236553
+      Jinn_79: -385153555
+      Jinn_16: -703606837
+      Jinn_30: 798059344
+      Jinn_93: -999290467
+      Jinn_7: -405706748
+      Jinn_2: -112924805
+      Jinn_53: -658776640
+      Jinn_55: -1296579001
+      Jinn_20: 927097778
+      Jinn_95: 1141578607
+      Jinn_75: 1800214462
+      Jinn_57: 368954876
+      Jinn_96: 1566654314
+      Jinn_19: 1476007571
+      Jinn_21: -200574449
+      Jinn_26: 1502955272
+      Jinn_94: 190787037
+      Jinn_42: -3151878
+      Jinn_44: 292911260
+      Jinn_17: -1483640157
+      Jinn_83: 127372168
+      Jinn_66: -2003460818
+      Jinn_91: 1681248011
+      Jinn_43: -2081724038
+      Jinn_5: 462751630
+      Jinn_72: 757401713
+      Jinn_48: 841506558
+      Jinn_6: 1323580375
+      Jinn_9: -1813017547
+      Jinn_52: 1914646537
+      Jinn_50: 666317366
+      Jinn_51: -639614715
+      Jinn_37: -1291550924
+      Jinn_39: 1265851088
+      Jinn_82: -1410459961
+      Jinn_4: 447436507
+      Jinn_13: 426307339
+      Jinn_73: 1243701893
+      Jinn_71: 2074918855
+      Jinn_32: 425696643
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
