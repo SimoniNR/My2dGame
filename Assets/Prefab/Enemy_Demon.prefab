@@ -12,9 +12,9 @@ GameObject:
   - component: {fileID: 3273889916647987327}
   - component: {fileID: 3273889916647987302}
   - component: {fileID: 3273889916647987324}
-  - component: {fileID: 3273889916647987325}
   - component: {fileID: 3273889916647987298}
-  - component: {fileID: 3273889916647987299}
+  - component: {fileID: 6255146994916269763}
+  - component: {fileID: 6206197856722713208}
   m_Layer: 6
   m_Name: Enemy_Demon
   m_TagString: Enemy
@@ -117,7 +117,7 @@ Rigidbody2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3273889917404584717}
-  m_BodyType: 0
+  m_BodyType: 1
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
@@ -130,20 +130,6 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
---- !u!114 &3273889916647987325
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3273889917404584717}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f6cf88ae63bc3b747a1b6418047527f3, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  animator: {fileID: 3273889916647987302}
-  maxHealth: 100
 --- !u!61 &3273889916647987298
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -170,7 +156,7 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.6040849, y: 1.155623}
   m_EdgeRadius: 0
---- !u!114 &3273889916647987299
+--- !u!114 &6255146994916269763
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -183,10 +169,26 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   attackCooldown: 1
-  range: 1.07
-  colliderDistance: 0.48
-  damage: 15
+  range: 1
+  damage: 10
+  colliderDistance: 0.51
   boxCollider: {fileID: 3273889916647987298}
   playerLayer:
     serializedVersion: 2
     m_Bits: 128
+  _clip: []
+--- !u!114 &6206197856722713208
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3273889917404584717}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6cf88ae63bc3b747a1b6418047527f3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animator: {fileID: 3273889916647987302}
+  maxHealth: 100
+  _clip: []
