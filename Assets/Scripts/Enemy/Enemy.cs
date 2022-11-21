@@ -4,20 +4,21 @@ using UnityEngine;
 
 public class Enemy : MonoBehaviour
 {
+    
+    [Header("Components")] 
     public Animator animator;
+    [SerializeField]private Behaviour[] components;
+   
+    [Header("Health")] 
     public int maxHealth = 100;
     int currentHealth;
     
-    
-    private EnemyPatrol _enemyPatrol;
-    private EnemyMeeleAttack _enemyMeeleAttack;
-    
-   private void Awake()
-   {
-       
-        _enemyPatrol = GetComponentInParent<EnemyPatrol>();
-        _enemyMeeleAttack = GetComponent<EnemyMeeleAttack>();
-    }
+
+    [Header("Audio")]
+    [SerializeField] private AudioClip[] _clip;
+
+
+  
     void Start()
     {
         currentHealth = maxHealth;
@@ -32,12 +33,11 @@ public class Enemy : MonoBehaviour
         if (currentHealth <= 0)
         {
             Die();
-            //disable enemy movement
-            if (_enemyPatrol != null)
-               _enemyPatrol.enabled = false;
-           //disable enemy attack
-           if (_enemyMeeleAttack != null)
-               _enemyMeeleAttack.enabled = false;
+            //disable all classes
+            foreach (Behaviour component in components ) 
+            {
+                component.enabled = false;
+            }
         }
     }
 
@@ -46,14 +46,17 @@ public class Enemy : MonoBehaviour
         Debug.Log("HE IS DEAD!");
         
         animator.SetBool("IsDead", true);// die animation
+        soundManager.Instance.PlaySound(_clip[0]); //play melee audio
 
         
         this.enabled = false; // disable the enemy
        
-        //GetComponent<Collider2D>().enabled = false; // disable collider
-       
-
+        GetComponent<Collider2D>().enabled = false; // disable collider
+      
     }
 
-   
+    private void Deactivate()
+    {
+        gameObject.SetActive(false);
+    }
 }

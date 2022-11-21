@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: db10042784acc9845ab5b3a3627ab1f3
+guid: 0de2a10e52febcd4ab33e095e94d093c
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -70,7 +70,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -101,17 +101,29 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Character_Attack_Spear_0
+      name: Character_Attack 1_0
       rect:
         serializedVersion: 2
-        x: 4
-        y: 194
-        width: 54
-        height: 50
+        x: 0
+        y: 189
+        width: 38
+        height: 67
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -119,20 +131,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b291ebe4a315a41458d63785d1cbbd6a
-      internalID: -1435283047
+      spriteID: a54e6b2ecd57c4842aa2aff187753367
+      internalID: 322299196
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character_Attack_Spear_1
+      name: Character_Attack 1_1
       rect:
         serializedVersion: 2
-        x: 68
-        y: 192
-        width: 51
-        height: 51
+        x: 74
+        y: 187
+        width: 48
+        height: 69
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -140,82 +152,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3e9e9eb1d145c2346bc6d5f579388bf0
-      internalID: -385186557
+      spriteID: 8c4546c8df60326418d5b1af51c2692d
+      internalID: 867450245
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character_Attack_Spear_2
+      name: Character_Attack 1_2
       rect:
         serializedVersion: 2
-        x: 139
-        y: 192
-        width: 40
-        height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a8eb4f8495c0d48478af1c0a1ea28038
-      internalID: -569988007
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Character_Attack_Spear_3
-      rect:
-        serializedVersion: 2
-        x: 214
-        y: 192
-        width: 22
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d3f2af429a6afe64b9d76c5a72fa7d2c
-      internalID: -957764792
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Character_Attack_Spear_4
-      rect:
-        serializedVersion: 2
-        x: 279
-        y: 192
-        width: 22
-        height: 59
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e3487fa3dc86e1548b3ca7276b14c694
-      internalID: -1289925155
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Character_Attack_Spear_5
-      rect:
-        serializedVersion: 2
-        x: 343
-        y: 192
-        width: 22
+        x: 128
+        y: 193
+        width: 52
         height: 63
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -224,20 +173,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a0aad8ea1211a8a4bbb57da6af95b94e
-      internalID: -790527306
+      spriteID: b4cf397563ba1024dbde51d873b689cc
+      internalID: 54373135
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character_Attack_Spear_6
+      name: Character_Attack 1_3
       rect:
         serializedVersion: 2
-        x: 407
-        y: 192
-        width: 22
-        height: 59
+        x: 202
+        y: 193
+        width: 28
+        height: 51
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -245,19 +194,124 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fd63879dba48c074ca1cb454a6063d5d
-      internalID: -556554418
+      spriteID: 6aad1c1b314d9a84fb9551fc21c3ff04
+      internalID: 944005948
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character_Attack_Spear_7
+      name: Character_Attack 1_4
       rect:
         serializedVersion: 2
-        x: 470
-        y: 192
-        width: 22
+        x: 264
+        y: 193
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d54844ba21a15b4aba5e3a348ac90a2
+      internalID: 509295375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Attack 1_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 193
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c695cc87bb00e4cacc1456458b57b4
+      internalID: -1730579365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Attack 1_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 130
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15954d2a1eb15ac4ea518b4147e8af80
+      internalID: 2143395854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Attack 1_7
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 127
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43bfb834a1e1e50429a8e3f9aa5ba664
+      internalID: 768372750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Attack 1_8
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 130
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935a724b42a88db459e4b79453cc0707
+      internalID: 308606285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Attack 1_9
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 127
+        width: 44
         height: 54
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -266,38 +320,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ddbe9d33b06549c429149b37d654aa50
-      internalID: 230680789
+      spriteID: 5c30950f9f60a234e8e2a1ed2b4bff1c
+      internalID: 347114028
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character_Attack_Spear_8
+      name: Character_Attack 1_10
       rect:
         serializedVersion: 2
-        x: 3
-        y: 130
-        width: 51
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a3c722f6e797f1941aee91bb06f4408d
-      internalID: -410526855
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Character_Attack_Spear_9
-      rect:
-        serializedVersion: 2
-        x: 70
+        x: 243
         y: 130
         width: 54
         height: 51
@@ -308,20 +341,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 66860581b5c22834095bb4171a21abe2
-      internalID: 1660724300
+      spriteID: 7d8ce25e565c6d34c8d2183c07d24b98
+      internalID: -535868286
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character_Attack_Spear_10
+      name: Character_Attack 1_11
       rect:
         serializedVersion: 2
-        x: 134
-        y: 130
-        width: 54
-        height: 51
+        x: 301
+        y: 128
+        width: 83
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -329,124 +362,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b0c976b3c796d384caba483dbbe2dc50
-      internalID: -2017275772
+      spriteID: f7123434b3ed6ae4d81c89e1d00ba3db
+      internalID: -310425620
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character_Attack_Spear_11
+      name: Character_Attack 1_12
       rect:
         serializedVersion: 2
-        x: 201
-        y: 130
-        width: 54
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a972249d793aaee408297191611a9262
-      internalID: 118151707
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Character_Attack_Spear_12
-      rect:
-        serializedVersion: 2
-        x: 259
-        y: 130
-        width: 54
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b0966b0ef2ad5784d8a31077825538e8
-      internalID: 1957524961
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Character_Attack_Spear_13
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 130
-        width: 54
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9082719f68e1698499f439e43666526e
-      internalID: -1674767595
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Character_Attack_Spear_14
-      rect:
-        serializedVersion: 2
-        x: 387
-        y: 130
-        width: 54
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c9ab59f8a43c4354e87984255927baa6
-      internalID: -1997149195
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Character_Attack_Spear_15
-      rect:
-        serializedVersion: 2
-        x: 457
-        y: 130
-        width: 54
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3b3b72b62b8b5464d86be90ce488eada
-      internalID: -1994427214
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Character_Attack_Spear_16
-      rect:
-        serializedVersion: 2
-        x: 4
+        x: 8
         y: 66
-        width: 54
+        width: 30
         height: 56
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -455,19 +383,61 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bb5212e370964054cbd352774b34783e
-      internalID: 1642439264
+      spriteID: b94159e3a5bc38a449cba5012b1bc7cd
+      internalID: 1195335779
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character_Attack_Spear_17
+      name: Character_Attack 1_13
       rect:
         serializedVersion: 2
-        x: 71
-        y: 67
-        width: 51
+        x: 73
+        y: 66
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798efc52565fad14ebfdc8cc1a5e22c9
+      internalID: 2081664521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Attack 1_14
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 66
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2b72eede0fec14d96c31b14b1073eb
+      internalID: 77497196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Attack 1_15
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 66
+        width: 27
         height: 55
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -476,20 +446,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6b74ac5ecce143641a7f6c717eb27962
-      internalID: 347841160
+      spriteID: 38d23a26ff8d8e04b975c614cd6a85e4
+      internalID: -796994469
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character_Attack_Spear_18
+      name: Character_Attack 1_16
       rect:
         serializedVersion: 2
-        x: 134
-        y: 65
-        width: 40
-        height: 57
+        x: 267
+        y: 59
+        width: 43
+        height: 63
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -497,230 +467,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 001726fec443ee94a8bd0abd73b016b2
-      internalID: -135722647
+      spriteID: f18121859e6e3e144a5c3f8cb2060a9f
+      internalID: 893521461
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character_Attack_Spear_19
-      rect:
-        serializedVersion: 2
-        x: 210
-        y: 67
-        width: 27
-        height: 59
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d783584857f980941ae2f90dcd7a4fa0
-      internalID: -1832088283
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Character_Attack_Spear_20
-      rect:
-        serializedVersion: 2
-        x: 274
-        y: 67
-        width: 27
-        height: 56
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 986f9f04039f4d848bc57902d886bd14
-      internalID: 201344104
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Character_Attack_Spear_21
-      rect:
-        serializedVersion: 2
-        x: 338
-        y: 64
-        width: 27
-        height: 57
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b8e3170b437972040b443e8cf24dba8f
-      internalID: 2134032812
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Character_Attack_Spear_22
-      rect:
-        serializedVersion: 2
-        x: 402
-        y: 67
-        width: 27
-        height: 56
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b4b16d4608bfd334784d3ad12a1b7c37
-      internalID: 838431766
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Character_Attack_Spear_23
-      rect:
-        serializedVersion: 2
-        x: 466
-        y: 67
-        width: 27
-        height: 59
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2083b4066ea25c846b39bfcfe1a2d435
-      internalID: -1565366484
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Character_Attack_Spear_24
-      rect:
-        serializedVersion: 2
-        x: 10
-        y: 2
-        width: 51
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0c98d43e2518f554a8984dee864cb3ed
-      internalID: 1103979272
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Character_Attack_Spear_25
-      rect:
-        serializedVersion: 2
-        x: 68
-        y: 2
-        width: 54
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 01722882c26ad454191e27e70a79b9f7
-      internalID: -740394599
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Character_Attack_Spear_26
-      rect:
-        serializedVersion: 2
-        x: 132
-        y: 2
-        width: 54
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a088571512d3d854aa0c1002efd68c74
-      internalID: 1037034231
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Character_Attack_Spear_27
-      rect:
-        serializedVersion: 2
-        x: 193
-        y: 2
-        width: 54
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fe8c6f9d4e167a84fa701ba91e26b0bc
-      internalID: 474340293
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Character_Attack_Spear_28
-      rect:
-        serializedVersion: 2
-        x: 263
-        y: 2
-        width: 54
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 551dbb5f94045124783902b6ca94732e
-      internalID: 1360400415
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Character_Attack_Spear_29
+      name: Character_Attack 1_17
       rect:
         serializedVersion: 2
         x: 330
-        y: 2
-        width: 54
-        height: 51
+        y: 66
+        width: 44
+        height: 56
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -728,19 +488,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d6b7d771f2e5ee343afff396d9bf6af7
-      internalID: -1056462348
+      spriteID: 898a3179a45bdf342a7e9e6e9e84e2b1
+      internalID: 1427056929
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character_Attack_Spear_30
+      name: Character_Attack 1_18
       rect:
         serializedVersion: 2
-        x: 391
+        x: 1
         y: 2
-        width: 54
+        width: 56
         height: 51
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -749,19 +509,40 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 059c7592adac38840b6e48cccfd67bd1
-      internalID: -1643704138
+      spriteID: 09b5027c9f23e9d46979672b3105b1a8
+      internalID: 1521347636
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character_Attack_Spear_31
+      name: Character_Attack 1_19
       rect:
         serializedVersion: 2
-        x: 449
+        x: 67
         y: 2
-        width: 54
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893a787b1576bf148abac7aa05f72e5f
+      internalID: -548169207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Attack 1_20
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 2
+        width: 36
         height: 51
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -770,8 +551,71 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 57ad8a09c830dbc4ab89997785558971
-      internalID: -1219780257
+      spriteID: 223795dd0c5a8a4409d40045ff741b43
+      internalID: -738163003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Attack 1_21
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba2a41cf508f014a8faebdbbf655793
+      internalID: 507642763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Attack 1_22
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 2
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db46991a5c42f1442b71d1d363dbdfc0
+      internalID: -1685960912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Attack 1_23
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 2
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f26a2482826ec45913216ade6d20ae
+      internalID: 1236384272
       vertices: []
       indices: 
       edges: []
@@ -787,38 +631,30 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Character_Attack_Spear_18: -135722647
-      Character_Attack_Spear_11: 118151707
-      Character_Attack_Spear_15: -1994427214
-      Character_Attack_Spear_5: -790527306
-      Character_Attack_Spear_10: -2017275772
-      Character_Attack_Spear_14: -1997149195
-      Character_Attack_Spear_27: 474340293
-      Character_Attack_Spear_0: -1435283047
-      Character_Attack_Spear_16: 1642439264
-      Character_Attack_Spear_20: 201344104
-      Character_Attack_Spear_26: 1037034231
-      Character_Attack_Spear_31: -1219780257
-      Character_Attack_Spear_21: 2134032812
-      Character_Attack_Spear_9: 1660724300
-      Character_Attack_Spear_23: -1565366484
-      Character_Attack_Spear_24: 1103979272
-      Character_Attack_Spear_30: -1643704138
-      Character_Attack_Spear_7: 230680789
-      Character_Attack_Spear_25: -740394599
-      Character_Attack_Spear_8: -410526855
-      Character_Attack_Spear_13: -1674767595
-      Character_Attack_Spear_28: 1360400415
-      Character_Attack_Spear_4: -1289925155
-      Character_Attack_Spear_29: -1056462348
-      Character_Attack_Spear_22: 838431766
-      Character_Attack_Spear_12: 1957524961
-      Character_Attack_Spear_2: -569988007
-      Character_Attack_Spear_3: -957764792
-      Character_Attack_Spear_17: 347841160
-      Character_Attack_Spear_6: -556554418
-      Character_Attack_Spear_1: -385186557
-      Character_Attack_Spear_19: -1832088283
+      Character_Attack 1_11: -310425620
+      Character_Attack 1_9: 347114028
+      Character_Attack 1_14: 77497196
+      Character_Attack 1_23: 1236384272
+      Character_Attack 1_3: 944005948
+      Character_Attack 1_16: 893521461
+      Character_Attack 1_1: 867450245
+      Character_Attack 1_8: 308606285
+      Character_Attack 1_4: 509295375
+      Character_Attack 1_18: 1521347636
+      Character_Attack 1_0: 322299196
+      Character_Attack 1_2: 54373135
+      Character_Attack 1_20: -738163003
+      Character_Attack 1_10: -535868286
+      Character_Attack 1_21: 507642763
+      Character_Attack 1_12: 1195335779
+      Character_Attack 1_13: 2081664521
+      Character_Attack 1_15: -796994469
+      Character_Attack 1_6: 2143395854
+      Character_Attack 1_22: -1685960912
+      Character_Attack 1_17: 1427056929
+      Character_Attack 1_19: -548169207
+      Character_Attack 1_5: -1730579365
+      Character_Attack 1_7: 768372750
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

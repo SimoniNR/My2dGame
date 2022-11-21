@@ -53,6 +53,8 @@ public class PlayerCombat : MonoBehaviour
         //pool fireballs
         fireballs[FindFireball()].transform.position = firePoint.position;
         fireballs[FindFireball()].GetComponent<Projectile>().SetDirection(Mathf.Sign(transform.localScale.x));
+        
+        
     }
 
     private int FindFireball()

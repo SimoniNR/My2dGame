@@ -25,6 +25,11 @@ public class EnemyPatrol : MonoBehaviour
    [Header("Enemy Animator")] 
    [SerializeField]private Animator anim;
 
+   private void Awake()
+   {
+      initScale = enemy.localScale;
+   }
+
    private void OnDisable()
    {
       anim.SetBool("Walk", false);

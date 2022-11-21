@@ -25,11 +25,13 @@ public class EnemyMeeleAttack : MonoBehaviour
    //references
    private characterMovement playerHealth;
    private EnemyPatrol enemyPatrol;
+   private EnemyBehaviour enemyBehaviour;
 
    private void Awake()
    {
       anim = GetComponent<Animator>();
       enemyPatrol = GetComponentInParent<EnemyPatrol>();
+      enemyBehaviour = GetComponentInParent<EnemyBehaviour>();
    }
 
    private void Update()
@@ -50,6 +52,11 @@ public class EnemyMeeleAttack : MonoBehaviour
 
       if (enemyPatrol != null)
        enemyPatrol.enabled = !PlayerInSight();
+
+      if (enemyBehaviour != null)
+      {
+         enemyBehaviour.enabled = !PlayerInSight();
+      }
 
 
    }
