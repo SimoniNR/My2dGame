@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ac237c3a5fa24b6488a6bd0630cd6bcc
+guid: f44b8b0ee2b86954ebfe839c1a8a1386
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 128
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -70,7 +70,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -105,148 +105,148 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Stone_0
+      name: FireAttack_0
       rect:
         serializedVersion: 2
-        x: 49
-        y: 92
-        width: 78
+        x: 26
+        y: 15
+        width: 27
         height: 71
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 457e4c4ab4056a14bb12b0f90efa2f3e
-      internalID: -1312087432
+      spriteID: 97c00b61ec42ca646be68d0731f23746
+      internalID: 733534998
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Stone_1
+      name: FireAttack_1
       rect:
         serializedVersion: 2
-        x: 163
-        y: 92
-        width: 84
-        height: 71
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8edb40991e2d6bf4ea704e799c3e5c1c
-      internalID: 1358434998
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Stone_2
-      rect:
-        serializedVersion: 2
-        x: 281
-        y: 92
-        width: 93
-        height: 74
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b19d14d4dfea449498234e460579556a
-      internalID: -828175801
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Stone_3
-      rect:
-        serializedVersion: 2
-        x: 417
-        y: 92
+        x: 112
+        y: 16
         width: 82
-        height: 72
+        height: 71
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 13350dbb8b0e5a94c8af10cc663b4b25
-      internalID: 1759731407
+      spriteID: 9ea8978db54736b4e997f86c82241c65
+      internalID: -1961322208
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Stone_13
+      name: FireAttack_2
       rect:
         serializedVersion: 2
-        x: 550
-        y: 91
-        width: 89
-        height: 72
+        x: 273
+        y: 15
+        width: 79
+        height: 71
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 863e9c2f6eb5629408a544a5db2629d4
-      internalID: 1014581731
+      spriteID: edd69d61fb3520f41afc2f9b477f55c9
+      internalID: 591709376
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Stone_37
+      name: FireAttack_3
       rect:
         serializedVersion: 2
-        x: 705
-        y: 91
-        width: 77
-        height: 72
+        x: 410
+        y: 12
+        width: 81
+        height: 71
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3689655ef7b229f4993d5a4fe76dd7b6
-      internalID: 1316010227
+      spriteID: 45b5ba1bee0f7fc4d862f5a2a286d72c
+      internalID: 223251145
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Stone_43
+      name: FireAttack_5
       rect:
         serializedVersion: 2
-        x: 827
-        y: 92
-        width: 64
-        height: 72
+        x: 605
+        y: 32
+        width: 88
+        height: 71
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 988f5a8128a077144b1c5930a10dfafa
-      internalID: 1562801193
+      spriteID: a2cac9413feb85242867fee83ffb5f14
+      internalID: -1898672032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireAttack_25
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 29
+        width: 59
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430716596e0c35c4f8410a4e4bb000a9
+      internalID: -1961304091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireAttack_28
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 29
+        width: 82
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e445c7aaabbdb4c935a735f6719317
+      internalID: -793653168
       vertices: []
       indices: 
       edges: []
@@ -262,53 +262,40 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Stone_31: 1122129161
-      Stone_38: -177434424
-      Stone_18: 354984507
-      Stone_43: 1562801193
-      Stone_46: 1284128017
-      Stone_34: 2069875008
-      Stone_41: -228729387
-      Stone_44: -181578670
-      Stone_2: -828175801
-      Stone_13: 1014581731
-      Stone_17: 585540614
-      Stone_33: -1058169291
-      Stone_0: -1312087432
-      Stone_30: -716414131
-      Stone_42: -602870236
-      Stone_20: -83582670
-      Stone_32: -1189923587
-      Stone_28: 262109570
-      Stone_40: -486945777
-      Stone_36: 1714141083
-      Stone_7: 584389546
-      Stone_22: -213753834
-      Stone_11: -640104576
-      Stone_35: -919121075
-      Stone_15: 1582295241
-      Stone_37: 1316010227
-      Stone_6: -1175090040
-      Stone_24: -463439392
-      Stone_8: 1088661288
-      Stone_1: 1358434998
-      Stone_16: -539107475
-      Stone_9: 590298230
-      Stone_4: -978523651
-      Stone_25: -245703265
-      Stone_39: 1666654188
-      Stone_21: -869035978
-      Stone_5: -1296723098
-      Stone_29: 1558157960
-      Stone_10: 1785071
-      Stone_26: 1678933379
-      Stone_23: -1789956769
-      Stone_27: 2139918788
-      Stone_14: -736834956
-      Stone_3: 1759731407
-      Stone_45: 1129397780
-      Stone_12: 2035724966
-      Stone_19: -1780816519
+      FireAttack_1: -1961322208
+      FireAttack_32: -864366222
+      FireAttack_24: 35667238
+      FireAttack_28: -793653168
+      FireAttack_22: -1833117345
+      FireAttack_6: 1674281063
+      FireAttack_20: -1113694249
+      FireAttack_18: 1652497718
+      FireAttack_33: 2102907363
+      FireAttack_31: -2142674807
+      FireAttack_0: 733534998
+      FireAttack_17: -1458008176
+      FireAttack_19: -2024475635
+      FireAttack_16: 1198674997
+      FireAttack_23: -659705364
+      FireAttack_4: -937339176
+      FireAttack_26: -1170872783
+      FireAttack_13: -2008752068
+      FireAttack_29: 603615529
+      FireAttack_2: 591709376
+      FireAttack_5: -1898672032
+      FireAttack_10: -1279997480
+      FireAttack_25: -1961304091
+      FireAttack_9: 1517848377
+      FireAttack_14: 141912581
+      FireAttack_27: -1175954640
+      FireAttack_21: 1451733835
+      FireAttack_8: 777259245
+      FireAttack_3: 223251145
+      FireAttack_11: -1079758602
+      FireAttack_12: 1913980996
+      FireAttack_30: -1522098883
+      FireAttack_7: -996307986
+      FireAttack_15: -767153646
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
