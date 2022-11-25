@@ -13,9 +13,11 @@ public class characterMovement : MonoBehaviour
     public float jumpSpeed = 15f; //new jump
     
     [Header("Component")]
+    public GameManagerScript gameManager;
     public Rigidbody2D body;
     public LayerMask groundLayer;
     [SerializeField]private Behaviour[] components;
+    
     
     //private bool grounded;
     private bool facingRight;
@@ -39,8 +41,8 @@ public class characterMovement : MonoBehaviour
 
     [Header("Audio")] 
     [SerializeField] private AudioClip[] _clip;
-    
-    
+
+   
     void Awake()
     {
         body = GetComponent<Rigidbody2D>();
@@ -74,6 +76,7 @@ public class characterMovement : MonoBehaviour
         {
             Die();
             GetComponent<characterMovement>().enabled = false;
+            gameManager.gameOver();
 
         }
     }

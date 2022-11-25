@@ -48,7 +48,7 @@ public class PauseMenu : MonoBehaviour
 
     public void QuitGame()
     {
-        Debug.Log("Quitting game sangue bom...");
+        Debug.Log("Quitting game");
         Application.Quit();
     }
 }
