@@ -6,6 +6,7 @@ using UnityEngine.SceneManagement;
 public class GameManagerScript : MonoBehaviour
 {
     public GameObject gameOverUI;
+    public GameObject completeLevelUI;
     
     void Start()
     {
@@ -29,7 +30,7 @@ public class GameManagerScript : MonoBehaviour
     
     public void LoadMenu()
     {
-        //Debug.Log("Loading menu mano...");
+        
         Time.timeScale = 1f;
         SceneManager.LoadScene("Menu");
     }
@@ -38,5 +39,11 @@ public class GameManagerScript : MonoBehaviour
     {
         Debug.Log("Quitting game");
         Application.Quit();
+    }
+
+    public void CompleteLevel()
+    {
+        Debug.Log("LEVEL WON");
+        completeLevelUI.SetActive(true);
     }
 }

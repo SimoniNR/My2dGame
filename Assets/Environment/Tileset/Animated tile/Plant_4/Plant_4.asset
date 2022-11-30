@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Plant_4
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 21300000, guid: f13035e05745a3c4b92909da1b14d775, type: 3}
+  - {fileID: 21300000, guid: 9351b72109394764d85c10d3eb225663, type: 3}
+  - {fileID: 21300000, guid: c077bbaabd4e67e4d8cb95352936652f, type: 3}
+  - {fileID: 21300000, guid: 52142e3fee9099e4492fa74255a22796, type: 3}
+  - {fileID: 21300000, guid: c57b47aefb8f44e418f9818b52be1205, type: 3}
+  - {fileID: 21300000, guid: 00690324e8456604b817d66df6a24848, type: 3}
+  - {fileID: 21300000, guid: 6cdf772ea0cba924881a840df4ed4da7, type: 3}
+  - {fileID: 21300000, guid: dd632677bb6d3174cba5028c4a4e5e30, type: 3}
+  - {fileID: 21300000, guid: fdc00c316d3f6db4b9e7a88648b0d80a, type: 3}
+  - {fileID: 21300000, guid: 6c32e248ba34ba54aa88cfab18c452d4, type: 3}
+  - {fileID: 21300000, guid: e9a14b8df7e4c1b40bf73b1ccb9cd128, type: 3}
+  - {fileID: 21300000, guid: 214d006d3d7d27347aad2aec73d65911, type: 3}
+  - {fileID: 21300000, guid: 8063bdc52544a614ea20c2e6f36f215f, type: 3}
+  - {fileID: 21300000, guid: b7099aef691c06244a74e36257ac04f0, type: 3}
+  - {fileID: 21300000, guid: bcf32621fddbc784f867c24cbc00e365, type: 3}
+  - {fileID: 21300000, guid: 5500477273deab34691ca566080686b5, type: 3}
+  - {fileID: 21300000, guid: 0080521dfced81d43bffa02f345b337c, type: 3}
+  - {fileID: 21300000, guid: e79f5d9b7c794eb4a82d0c43e8a17a16, type: 3}
+  - {fileID: 21300000, guid: 58e4123d80a8e26439f7fb35335c625b, type: 3}
+  - {fileID: 21300000, guid: 9848337bdbf99e042aa8c73de322afc8, type: 3}
+  m_MinSpeed: 50
+  m_MaxSpeed: 100
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0

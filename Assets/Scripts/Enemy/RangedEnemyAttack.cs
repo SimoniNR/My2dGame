@@ -30,13 +30,13 @@ public class RangedEnemyAttack : MonoBehaviour
     //references
     private Animator anim;
     private EnemyPatrol enemyPatrol;
-    private EnemyBehaviour _enemyBehaviour;
+    //private EnemyBehaviour _enemyBehaviour;
     
     private void Awake()
     {
         anim = GetComponent<Animator>();
         enemyPatrol = GetComponentInParent<EnemyPatrol>();
-        _enemyBehaviour = GetComponent<EnemyBehaviour>();
+        //_enemyBehaviour = GetComponent<EnemyBehaviour>();
     }
     
     private void Update()
@@ -59,8 +59,6 @@ public class RangedEnemyAttack : MonoBehaviour
         if (enemyPatrol != null)
             enemyPatrol.enabled = !PlayerInSight();
         
-        if (_enemyBehaviour != null)
-            _enemyBehaviour.enabled = !PlayerInSight();
     }
 
     private void RangedAttack()
