@@ -9,9 +9,19 @@ public class RespawnLevel : MonoBehaviour
     public int iLevelToLoad;
   
 
-    private void OnCollisionEnter2D(Collision2D other)
+   /* private void OnCollisionEnter2D(Collision2D other)
     {
         if (other.gameObject.tag == "Player")
+        {
+            Debug.Log("player on collision enter");
+            LoadScene();
+
+        }
+    }*/
+
+    private void OnTriggerEnter2D(Collider2D col)
+    {
+        if (col.gameObject.tag == "Player")
         {
             Debug.Log("player on collision enter");
             LoadScene();

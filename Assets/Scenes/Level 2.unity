@@ -43891,7 +43891,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.601171, y: 25.483982, z: -10}
+  m_LocalPosition: {x: -6.640659, y: 0.8539831, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -44102,6 +44102,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gameOverUI: {fileID: 860788520}
+  completeLevelUI: {fileID: 0}
 --- !u!4 &529970919
 Transform:
   m_ObjectHideFlags: 0
@@ -61045,7 +61046,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 1.1251863, y: 1}
+    m_SensorSize: {x: 1.123696, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -61062,7 +61063,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 946885488}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.601171, y: 25.483982, z: -10}
+  m_LocalPosition: {x: -6.640659, y: 0.8539831, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -64328,7 +64329,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1034753492}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.22, y: 24.06, z: 0}
+  m_LocalPosition: {x: -8.02, y: -0.57, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -71638,7 +71639,7 @@ Tilemap:
       - {fileID: 21300000, guid: e0c982753bef55541a9889f64569b787, type: 3}
       - {fileID: 21300000, guid: 54e7ed3ad554bb54799e63f06d8a591f, type: 3}
       - {fileID: 21300000, guid: eaf696fe015c3514f8f84366277dbd61, type: 3}
-      m_AnimationSpeed: 140.17073
+      m_AnimationSpeed: 98.0576
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   - first: {x: -3, y: -3, z: 0}
@@ -71704,7 +71705,7 @@ Tilemap:
       - {fileID: 21300000, guid: 0c25b69cc11100d43b0e7b2d9fc0bd2c, type: 3}
       - {fileID: 21300000, guid: 0c25b69cc11100d43b0e7b2d9fc0bd2c, type: 3}
       - {fileID: 21300000, guid: 0c25b69cc11100d43b0e7b2d9fc0bd2c, type: 3}
-      m_AnimationSpeed: 19.644665
+      m_AnimationSpeed: 71.13492
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   - first: {x: 165, y: -2, z: 0}
@@ -71800,7 +71801,7 @@ Tilemap:
       - {fileID: 21300000, guid: e0c982753bef55541a9889f64569b787, type: 3}
       - {fileID: 21300000, guid: 54e7ed3ad554bb54799e63f06d8a591f, type: 3}
       - {fileID: 21300000, guid: eaf696fe015c3514f8f84366277dbd61, type: 3}
-      m_AnimationSpeed: 79.50906
+      m_AnimationSpeed: 56.845703
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   - first: {x: -3, y: 22, z: 0}
@@ -71896,7 +71897,7 @@ Tilemap:
       - {fileID: 21300000, guid: 99ef7236fef58364aba0762b4a5bc4fd, type: 3}
       - {fileID: 21300000, guid: 097bb8b50be6a2c4f8a05528de81c8a8, type: 3}
       - {fileID: 21300000, guid: 2b325dd2a097ca74d93da12e4e5a3ae3, type: 3}
-      m_AnimationSpeed: 120.717064
+      m_AnimationSpeed: 89.77847
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   - first: {x: 20, y: 23, z: 0}
@@ -71992,7 +71993,7 @@ Tilemap:
       - {fileID: 21300000, guid: 99ef7236fef58364aba0762b4a5bc4fd, type: 3}
       - {fileID: 21300000, guid: 097bb8b50be6a2c4f8a05528de81c8a8, type: 3}
       - {fileID: 21300000, guid: 2b325dd2a097ca74d93da12e4e5a3ae3, type: 3}
-      m_AnimationSpeed: 169.20824
+      m_AnimationSpeed: 86.78092
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   - first: {x: 146, y: 23, z: 0}
@@ -72088,7 +72089,7 @@ Tilemap:
       - {fileID: 21300000, guid: e0c982753bef55541a9889f64569b787, type: 3}
       - {fileID: 21300000, guid: 54e7ed3ad554bb54799e63f06d8a591f, type: 3}
       - {fileID: 21300000, guid: eaf696fe015c3514f8f84366277dbd61, type: 3}
-      m_AnimationSpeed: 43.28691
+      m_AnimationSpeed: 69.36828
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   - first: {x: 128, y: 28, z: 0}
@@ -72184,7 +72185,7 @@ Tilemap:
       - {fileID: 21300000, guid: 99ef7236fef58364aba0762b4a5bc4fd, type: 3}
       - {fileID: 21300000, guid: 097bb8b50be6a2c4f8a05528de81c8a8, type: 3}
       - {fileID: 21300000, guid: 2b325dd2a097ca74d93da12e4e5a3ae3, type: 3}
-      m_AnimationSpeed: 165.9352
+      m_AnimationSpeed: 66.635994
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   m_TileAssetArray:
@@ -113019,9 +113020,9 @@ GameObject:
   - component: {fileID: 3328739873211886889}
   - component: {fileID: 3328739873211886903}
   m_Layer: 0
-  m_Name: Enemy_Demon
+  m_Name: Respawn
   m_TagString: Untagged
-  m_Icon: {fileID: 0}
+  m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -113087,7 +113088,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: -1524866340, guid: 45cdb82107af87e459ca67900918dbba, type: 3}
+  m_Sprite: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -113095,7 +113096,7 @@ SpriteRenderer:
   m_Size: {x: 2.625, y: 2.9375}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &3328739873211886901
@@ -113106,7 +113107,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3328739872454372952}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -2.797062, y: 22.587013, z: 0.0047959406}
+  m_LocalPosition: {x: -8.323, y: 2.16, z: 0.0047959406}
   m_LocalScale: {x: 1.0884, y: 1.0884, z: 1.0884}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -113126,7 +113127,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.090659045, y: -0.093892455}
+  m_Offset: {x: 0.3101441, y: -0.093892455}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -113137,7 +113138,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.6040849, y: 1.155623}
+  m_Size: {x: 1.8820529, y: 1.155623}
   m_EdgeRadius: 0
 --- !u!114 &3328739873211886904
 MonoBehaviour:
